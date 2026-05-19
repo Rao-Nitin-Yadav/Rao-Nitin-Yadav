@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Android Development & Firebase**
 - 👯 I’m looking to collaborate on **Mobile App Projects**
 - 💬 Ask me about **Kotlin, Android Studio, Firebase**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **nitinyadav0612@gmail.com**
 - ⚡ Fun fact: I love building real-world applications 🚗
 
 ---
